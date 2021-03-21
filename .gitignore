@@ -3,3 +3,5 @@
 *.pdf
 *.tar.gz
 Midterm/2/*.txt
+!Midterm1.pdf
+!Midterm2.pdf
